@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning **Laravel framework** on Hexlet
 - 📫 How to reach me: riadev@inbox.ru
 - All of my projects are available at: [https://github.com/toridnc?tab=repositories](https://github.com/toridnc)
-- Language and tools: PHP, Git, Linux, PostgreSQL, Postman
+- Language and tools: PHP, Git, Linux, PostgreSQL, Postman, PHPUnit
 - [Resume](https://spb.hh.ru/resume/5c1a3d71ff098416990039ed1f72345872644c)
