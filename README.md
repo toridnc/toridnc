@@ -1,3 +1,3 @@
-### Hi there 👋 I'm Victoria
+### Hi there 👋
 
-- Language and tools: PHP, Laravel, Symfony, MySQL, PostgreSQL, Git, Linux, Postman, PHPUnit
+![lalalala](j.jpeg)
