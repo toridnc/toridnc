@@ -5,4 +5,6 @@
 
 👨‍💻 All of my study projects are available here
 
+I studied at **[Hexlet](https://ru.hexlet.io/u/riadev)** under the PHP developer program
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toridnc&theme=tokyonight)
