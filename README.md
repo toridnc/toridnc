@@ -1,7 +1,7 @@
 
-🔭 I’m currently working wiht project on **Symfony framework**
+🔭 I'm working on a **Symfony framework** project at work
 
-🌱 I’m currently creating my pet-project on **Laravel framework**
+🌱 I’m currently creating my pet-project on **Laravel framework** and reading a book <em>Don't Make Me Think (Steve Krug)</em> for this project
 
 👨‍💻 All of my study projects are available here
 
