@@ -1,9 +1,7 @@
 
-🔭 I'm working on a **Symfony framework** project at work
+🔭 I'm working with **Laravel**, **Symfony** frameworks
 
-🌱 I’m currently creating my pet-project on **Laravel framework** and reading a book <em>"Don't Make Me Think" (Steve Krug)</em> and <em>"Peopleware: Productive Projects and Teams" (Tom DeMarco)</em> for this project
-
-🤝 Open to collaborating on PHP projects
+🤝 [My CV](https://cv.hexlet.io/ru/resumes/3677)
 
 ✉️ You can contact me at [riadev@inbox.ru](mailto:riadev@inbox.ru)
 
